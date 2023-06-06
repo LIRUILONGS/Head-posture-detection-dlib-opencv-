@@ -108,7 +108,7 @@ predictor = dlib.shape_predictor(r".\shape_predictor_68_face_landmarks.dat")
 
 ## 博文部分内容参考
 
-© 文中涉及参考链接内容版权归原作者所有，如有侵权请告知，这是一个开源项目，如果你认可它，不要吝啬星星哦 :)
+© 文中涉及参考链接内容版权归原作者所有，如有侵权请告知 :)
 
 
 ***
