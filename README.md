@@ -4,20 +4,12 @@
 
 ---
 title: 基于OpenCV 和 Dlib 进行头部姿态估计
-tags:
-  - 头部姿态评估
-categories:
-  - 头部姿态评估
-toc: true
-recommend: 1
-keywords: 头部姿态评估
-uniqueId: '2023-06-02 10:57:09/基于OpenCV 和 Dlib 进行头部姿态估计.html'
-mathJax: false
-date: 2023-06-02 18:57:09
-thumbnail:
+
 ---
 
 **<font color="009688"> 庐山烟雨浙江潮，未到千般恨不消。到得还来别无事，庐山烟雨浙江潮。----《庐山烟雨浙江潮》苏轼**</font>
+
+
 
 <!-- more -->
 ## 写在前面
@@ -40,13 +32,15 @@ thumbnail:
 |Demo|
 |--|
 |原图|
-|![原图](image.jpg)
+|![原图](image.jpg)|
+|![原图](huge_1.jpg)|
 |特征点标记后|
 |![特征点标记后](new_KeyPointDetection.jpg)|
 |姿态标记|
 |![姿态标记](new_draw_annotation_box.jpg)|
 |姿态对应的Yaw，Pitch，Roll 度数|
-|![姿态对应的Yaw，Pitch，Roll 度数](new_3c63db530f6e4f0b86f62a453b8c4c2d.jpg)|
+|![姿态对应的Yaw，Pitch，Roll 度数](new_b993fcaefdb645baabb90d01f41df730.jpg)|
+|![姿态对应的Yaw，Pitch，Roll 度数](new_7ebb048b110a44d5b6e3aed776b5ce7e.jpg)|
 
 ### 步骤
 
