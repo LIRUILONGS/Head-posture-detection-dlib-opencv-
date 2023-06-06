@@ -37,7 +37,7 @@ title: 基于OpenCV 和 Dlib 进行头部姿态估计
 |特征点标记后|
 |![特征点标记后](new_KeyPointDetection.jpg)|
 |姿态标记|
-|![姿态标记](new_draw_annotation_box.jpg)|
+|![姿态标记](new_draw_annotation_boxs.jpg)|
 |姿态对应的Yaw，Pitch，Roll 度数|
 |![姿态对应的Yaw，Pitch，Roll 度数](new_b993fcaefdb645baabb90d01f41df730.jpg)|
 |![姿态对应的Yaw，Pitch，Roll 度数](new_7ebb048b110a44d5b6e3aed776b5ce7e.jpg)|
